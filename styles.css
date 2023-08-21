@@ -1,0 +1,15 @@
+#scrollToTopBtn {
+  background-color: #fff;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 9999;
+  padding: 10px 12px;
+  border-radius: 30px;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  cursor: pointer;
+  color: black;
+  font: icon;
+}
+
